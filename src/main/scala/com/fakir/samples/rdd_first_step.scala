@@ -5,7 +5,7 @@ import org.apache.spark.sql.SparkSession
 
 
 
-object SampleProgram {
+object rdd_first_step {
 
   /*
   def polymorph[A,B](variable1: A): B= {
